@@ -1,6 +1,7 @@
 def personal_information():
-    print('...')
+    print('Maggie Lorenson')
+    print('26662 230th Street, Badger MN, 56714')
+    print('(218) 469-0775')
+    print('Business')
 
-
-# Line which calls the above function.
 personal_information()
